@@ -1,0 +1,221 @@
+Date,Client_Name,City,Service_Type,Project_Category,Status,Amount,Payment_Status,Assigned_To,Completion_Days,Remarks
+2024-01-04,Shalini,Kaithal,Digital Presentation,Support Ticket,Completed,1830,Paid,Pankaj Sharma,18,Delivered on time
+2024-01-07,Suresh,Kaithal,Automation Consultation,Maintenance,In Progress,7430,Paid,Ritu Verma,5,Testing phase
+2024-01-16,Kavita,Hisar,Data Entry Automation,New Project,Completed,6520,Partial,Vishal Singh,27,Closed successfully
+2024-01-20,Sanjay,Kaithal,Technical Support,Renewal,In Progress,3920,Pending,Tarun Goel,3,Work ongoing
+2024-01-22,Sunita Solutions,Karnal,Data Entry Automation,Support Ticket,Completed,5480,Paid,Pankaj Sharma,4,Smooth delivery
+2024-01-27,Vinod,Kaithal,Automation Consultation,Upgrade,Cancelled,5870,Pending,Tarun Goel,3,Client cancelled request
+2024-01-28,Vinod,Hisar,Website Maintenance,New Project,Completed,8980,Partial,Tarun Goel,15,Client satisfied
+2024-02-01,Neha,Kaithal,Website Maintenance,Support Ticket,Pending,14920,Pending,Pankaj Sharma,0,Documents pending from client
+2024-02-09,Manoj,Jind,Computer Service,Upgrade,Completed,1420,Paid,Ritu Verma,11,Client satisfied
+2024-02-12,Ramesh Distributors,Kaithal,Automation Consultation,Support Ticket,Cancelled,10950,Partial,Vishal Singh,4,Client cancelled request
+2024-02-14,Rekha Services,Kurukshetra,Automation Consultation,Renewal,In Progress,14570,Partial,Vishal Singh,2,Testing phase
+2024-02-15,Rohit,Kaithal,Computer Service,Maintenance,In Progress,3980,Partial,Vishal Singh,3,Under review
+2024-02-17,Rekha Associates,Rohtak,Software Support,Upgrade,Pending,6890,Pending,Vishal Singh,0,Documents pending from client
+2024-02-29,Meena Traders,Ambala,Technical Support,New Project,Completed,1780,Paid,Amit Kumar,20,Minor revisions done
+2024-03-03,Neha Enterprises,Kurukshetra,Dashboard Reporting,New Project,In Progress,8710,Pending,Tarun Goel,7,Final stage in progress
+2024-03-05,Ashok,Ambala,Website Maintenance,Maintenance,Completed,6530,Partial,Pankaj Sharma,3,Client satisfied
+2024-03-06,Sonia Industries,Delhi,Digital Presentation,Support Ticket,In Progress,3480,Paid,Amit Kumar,4,Final stage in progress
+2024-03-11,Sunita Traders,Jind,Automation Consultation,Upgrade,Completed,10940,Paid,Amit Kumar,15,Closed successfully
+2024-03-11,Geeta Solutions,Jind,Automation Consultation,New Project,Completed,12990,Paid,Komal Yadav,9,Smooth delivery
+2024-03-19,Anita Distributors,Rohtak,Computer Service,Maintenance,Completed,4530,Partial,Ritu Verma,25,Client satisfied
+2024-03-21,Rekha Enterprises,Jind,Data Entry Automation,Renewal,In Progress,3770,Pending,Tarun Goel,16,Final stage in progress
+2024-03-22,Neha Computers,Jind,Automation Consultation,New Project,In Progress,7240,Pending,Ritu Verma,8,Under review
+2024-03-23,Vikram Enterprises,Karnal,Data Entry Automation,Maintenance,Completed,5320,Paid,Komal Yadav,22,Smooth delivery
+2024-03-31,Anita Solutions,Kaithal,Automation Consultation,Support Ticket,Completed,22840,Paid,Vishal Singh,18,Delivered on time
+2024-04-03,Anita,Hisar,Data Entry Automation,Renewal,Completed,3000,Paid,Tarun Goel,15,Smooth delivery
+2024-04-03,Kavita Store,Karnal,Technical Support,New Project,Completed,890,Paid,Pankaj Sharma,12,Minor revisions done
+2024-04-05,Manoj,Ambala,Data Entry Automation,Upgrade,In Progress,5120,Partial,Vishal Singh,16,Testing phase
+2024-04-08,Ajay,Kaithal,Data Entry Automation,Support Ticket,Completed,7870,Paid,Amit Kumar,20,Smooth delivery
+2024-04-11,Anita,Jind,Computer Service,Upgrade,Completed,1080,Paid,Vishal Singh,30,Client satisfied
+2024-04-20,Meena Store,Kaithal,Software Support,Maintenance,In Progress,5640,Paid,Komal Yadav,8,60% completed
+2024-04-21,Neha Distributors,Panipat,Dashboard Reporting,Renewal,Completed,13910,Paid,Vishal Singh,7,Closed successfully
+2024-04-24,Ramesh,Karnal,Computer Service,New Project,Completed,1190,Paid,Pankaj Sharma,30,Smooth delivery
+2024-04-26,Anita Agency,Jind,Dashboard Reporting,Support Ticket,Completed,5290,Paid,Tarun Goel,11,Delivered on time
+2024-04-26,Rekha,Karnal,Dashboard Reporting,Maintenance,Cancelled,7170,Pending,Komal Yadav,9,Client cancelled request
+2024-04-29,Sanjay Agency,Kaithal,Dashboard Reporting,New Project,Completed,11930,Paid,Amit Kumar,9,Smooth delivery
+2024-04-30,Vikram,Kaithal,Dashboard Reporting,Maintenance,Completed,13400,Partial,Komal Yadav,24,Closed successfully
+2024-05-04,Kavita Associates,Kurukshetra,Dashboard Reporting,New Project,In Progress,15100,Partial,Amit Kumar,16,Final stage in progress
+2024-05-09,Anita Associates,Kaithal,Computer Service,Upgrade,Cancelled,2510,Partial,Tarun Goel,4,Budget issue
+2024-05-13,Suresh Enterprises,Delhi,Website Maintenance,Renewal,Pending,12550,Pending,Amit Kumar,0,Scheduled for next week
+2024-05-14,Ramesh Store,Hisar,Automation Consultation,Renewal,In Progress,19510,Paid,Pankaj Sharma,5,Final stage in progress
+2024-05-14,Ashok,Kurukshetra,Dashboard Reporting,New Project,In Progress,11240,Paid,Amit Kumar,20,Testing phase
+2024-05-15,Priya,Ambala,Computer Service,Maintenance,Completed,4270,Paid,Ritu Verma,7,Minor revisions done
+2024-05-17,Anita Distributors,Kaithal,Data Entry Automation,Maintenance,Pending,5710,Pending,Ritu Verma,0,Documents pending from client
+2024-05-18,Ajay Distributors,Kaithal,Automation Consultation,Support Ticket,Pending,8410,Pending,Tarun Goel,0,Documents pending from client
+2024-05-20,Ramesh Enterprises,Chandigarh,Website Maintenance,Maintenance,In Progress,8460,Pending,Komal Yadav,5,Final stage in progress
+2024-05-29,Ramesh Industries,Jind,Data Entry Automation,Upgrade,Pending,2620,Partial,Vishal Singh,0,Awaiting client approval
+2024-06-01,Rekha Store,Panipat,Technical Support,Support Ticket,Pending,2380,Pending,Komal Yadav,0,On hold by client request
+2024-06-13,Sandeep Computers,Hisar,Automation Consultation,New Project,Completed,8680,Paid,Pankaj Sharma,28,Minor revisions done
+2024-06-18,Sonia Services,Ambala,Computer Service,Support Ticket,Cancelled,3900,Partial,Tarun Goel,3,Project postponed indefinitely
+2024-06-20,Shalini,Kaithal,Software Support,Renewal,Completed,5120,Paid,Ritu Verma,5,Smooth delivery
+2024-06-23,Sonia Services,Hisar,Computer Service,Upgrade,Cancelled,3810,Partial,Komal Yadav,2,Client cancelled request
+2024-06-30,Harish,Jind,Dashboard Reporting,Upgrade,Cancelled,12650,Partial,Komal Yadav,9,Budget issue
+2024-07-01,Pooja Traders,Hisar,Software Support,Support Ticket,Completed,3150,Paid,Vishal Singh,13,Closed successfully
+2024-07-03,Ramesh Store,Delhi,Technical Support,New Project,Completed,1020,Partial,Pankaj Sharma,29,Client satisfied
+2024-07-05,Ajay Agency,Karnal,Technical Support,Maintenance,Completed,1490,Paid,Komal Yadav,24,Closed successfully
+2024-07-11,Sonia Industries,Kaithal,Dashboard Reporting,New Project,Completed,9330,Paid,Pankaj Sharma,10,Smooth delivery
+2024-07-14,Sandeep,Hisar,Data Entry Automation,New Project,In Progress,5810,Paid,Ritu Verma,14,Under review
+2024-07-15,Rekha Agency,Chandigarh,Digital Presentation,New Project,Completed,6110,Paid,Pankaj Sharma,11,Client satisfied
+2024-07-31,Manoj Store,Jind,Data Entry Automation,Support Ticket,Completed,6350,Paid,Amit Kumar,10,Client satisfied
+2024-08-08,Ashok Store,Kaithal,Data Entry Automation,Maintenance,Completed,6620,Paid,Ritu Verma,25,Closed successfully
+2024-08-10,Manoj Store,Rohtak,Software Support,Maintenance,Completed,10420,Partial,Komal Yadav,30,Closed successfully
+2024-08-12,Naveen Distributors,Jind,Dashboard Reporting,New Project,Completed,15310,Paid,Komal Yadav,9,Delivered on time
+2024-08-12,Sonia,Jind,Digital Presentation,Renewal,Pending,4370,Pending,Tarun Goel,0,Awaiting client approval
+2024-08-13,Sonia Traders,Kaithal,Website Maintenance,Renewal,Completed,9280,Paid,Ritu Verma,8,Client satisfied
+2024-08-16,Neha Services,Kurukshetra,Technical Support,Maintenance,Completed,1820,Paid,Amit Kumar,26,Closed successfully
+2024-08-18,Rohit Associates,Ambala,Computer Service,Support Ticket,In Progress,3490,Pending,Pankaj Sharma,1,Work ongoing
+2024-08-20,Kavita,Kaithal,Software Support,New Project,Pending,8190,Partial,Vishal Singh,0,Documents pending from client
+2024-08-28,Sunita Distributors,Rohtak,Software Support,Renewal,Completed,8100,Paid,Pankaj Sharma,9,Minor revisions done
+2024-08-29,Pooja Solutions,Rohtak,Data Entry Automation,Support Ticket,Completed,2560,Paid,Pankaj Sharma,26,Delivered on time
+2024-08-30,Suresh,Jind,Automation Consultation,New Project,Completed,9730,Partial,Pankaj Sharma,25,Closed successfully
+2024-08-31,Rohit Computers,Karnal,Digital Presentation,New Project,Cancelled,5760,Pending,Pankaj Sharma,6,Project postponed indefinitely
+2024-09-01,Vikram Agency,Kaithal,Dashboard Reporting,Maintenance,Completed,15640,Paid,Amit Kumar,2,Minor revisions done
+2024-09-02,Priya Computers,Kaithal,Website Maintenance,Upgrade,Completed,8740,Paid,Vishal Singh,24,Smooth delivery
+2024-09-11,Kavita Associates,Kaithal,Computer Service,Support Ticket,Completed,4760,Paid,Vishal Singh,16,Minor revisions done
+2024-09-13,Rekha Store,Hisar,Software Support,Support Ticket,In Progress,4710,Pending,Amit Kumar,10,Work ongoing
+2024-09-15,Deepak Distributors,Panipat,Website Maintenance,Support Ticket,Completed,8300,Partial,Vishal Singh,15,Delivered on time
+2024-09-18,Anita Traders,Hisar,Dashboard Reporting,Upgrade,Completed,4230,Paid,Pankaj Sharma,6,Minor revisions done
+2024-09-29,Priya,Panipat,Website Maintenance,Renewal,Cancelled,8070,Pending,Ritu Verma,9,Project postponed indefinitely
+2024-09-30,Sunita,Chandigarh,Software Support,Maintenance,In Progress,9620,Pending,Vishal Singh,6,60% completed
+2024-10-01,Manoj Enterprises,Jind,Digital Presentation,Upgrade,Pending,4840,Pending,Pankaj Sharma,0,On hold by client request
+2024-10-05,Kavita Industries,Karnal,Dashboard Reporting,Upgrade,Completed,12150,Paid,Ritu Verma,8,Smooth delivery
+2024-10-10,Sunita Computers,Ambala,Digital Presentation,Renewal,Completed,2100,Paid,Tarun Goel,16,Smooth delivery
+2024-10-17,Geeta Associates,Kaithal,Data Entry Automation,Maintenance,Pending,3490,Pending,Amit Kumar,0,Documents pending from client
+2024-10-19,Shalini Distributors,Rohtak,Dashboard Reporting,Renewal,Completed,17680,Paid,Pankaj Sharma,11,Client satisfied
+2024-10-23,Rohit Store,Hisar,Data Entry Automation,Support Ticket,Completed,3260,Paid,Vishal Singh,28,Closed successfully
+2024-10-26,Vikram,Ambala,Dashboard Reporting,New Project,In Progress,15930,Partial,Amit Kumar,19,Under review
+2024-10-31,Kavita,Kaithal,Digital Presentation,Support Ticket,Pending,5680,Pending,Komal Yadav,0,Awaiting client approval
+2024-11-09,Anita Solutions,Chandigarh,Technical Support,New Project,In Progress,3300,Pending,Tarun Goel,18,Testing phase
+2024-11-12,Rekha,Hisar,Computer Service,Maintenance,In Progress,3140,Pending,Tarun Goel,19,60% completed
+2024-11-13,Harish Store,Chandigarh,Data Entry Automation,Support Ticket,In Progress,5920,Paid,Amit Kumar,14,Final stage in progress
+2024-11-15,Geeta Store,Kaithal,Dashboard Reporting,Support Ticket,Completed,6730,Paid,Vishal Singh,5,Client satisfied
+2024-11-19,Priya Solutions,Panipat,Technical Support,Renewal,Completed,1860,Paid,Tarun Goel,17,Minor revisions done
+2024-11-20,Rekha,Kaithal,Website Maintenance,Support Ticket,In Progress,14000,Pending,Amit Kumar,8,Under review
+2024-11-25,Sandeep,Kaithal,Data Entry Automation,New Project,Pending,3320,Pending,Vishal Singh,0,Awaiting client approval
+2024-12-09,Manoj Agency,Kaithal,Computer Service,Renewal,Pending,1360,Partial,Pankaj Sharma,0,Awaiting client approval
+2024-12-10,Deepak Enterprises,Kaithal,Technical Support,Maintenance,Completed,520,Paid,Komal Yadav,10,Delivered on time
+2024-12-11,Deepak,Kurukshetra,Digital Presentation,Upgrade,In Progress,5990,Partial,Ritu Verma,3,60% completed
+2024-12-12,Deepak,Karnal,Software Support,Maintenance,In Progress,8310,Paid,Tarun Goel,18,60% completed
+2024-12-12,Suresh,Ambala,Dashboard Reporting,Upgrade,Cancelled,15470,Pending,Tarun Goel,2,Client cancelled request
+2024-12-17,Harish Agency,Kaithal,Dashboard Reporting,Maintenance,In Progress,11770,Pending,Amit Kumar,3,60% completed
+2024-12-17,Priya,Kurukshetra,Data Entry Automation,New Project,Cancelled,7900,Pending,Pankaj Sharma,7,Budget issue
+2024-12-23,Kavita,Kaithal,Website Maintenance,Upgrade,Completed,13810,Paid,Komal Yadav,13,Client satisfied
+2024-12-24,Harish Services,Karnal,Data Entry Automation,Support Ticket,Pending,2610,Pending,Tarun Goel,0,Awaiting client approval
+2024-12-25,Deepak,Delhi,Technical Support,New Project,Pending,3560,Partial,Amit Kumar,0,Scheduled for next week
+2024-12-26,Deepak Services,Delhi,Computer Service,Upgrade,Completed,2200,Paid,Pankaj Sharma,10,Minor revisions done
+2025-01-01,Manoj Enterprises,Panipat,Technical Support,Support Ticket,Completed,980,Paid,Vishal Singh,21,Client satisfied
+2025-01-04,Rohit Distributors,Ambala,Data Entry Automation,Maintenance,Cancelled,2390,Partial,Amit Kumar,0,Project postponed indefinitely
+2025-01-05,Ramesh Computers,Chandigarh,Computer Service,Maintenance,Cancelled,2370,Pending,Vishal Singh,3,Client cancelled request
+2025-01-09,Pooja Computers,Hisar,Digital Presentation,Upgrade,In Progress,6280,Pending,Ritu Verma,11,Work ongoing
+2025-01-18,Manoj Distributors,Jind,Automation Consultation,Support Ticket,Completed,12110,Paid,Tarun Goel,27,Client satisfied
+2025-01-20,Suresh Associates,Kaithal,Data Entry Automation,Upgrade,In Progress,2810,Pending,Amit Kumar,14,Under review
+2025-01-24,Harish Store,Kaithal,Data Entry Automation,Maintenance,Pending,2760,Pending,Ritu Verma,0,Documents pending from client
+2025-01-30,Ajay,Ambala,Computer Service,New Project,Completed,2830,Paid,Ritu Verma,5,Closed successfully
+2025-02-08,Meena Enterprises,Kaithal,Dashboard Reporting,Maintenance,Completed,14940,Paid,Tarun Goel,25,Closed successfully
+2025-02-09,Shalini,Kaithal,Technical Support,Renewal,Completed,3060,Paid,Ritu Verma,26,Client satisfied
+2025-02-13,Deepak,Karnal,Technical Support,Renewal,In Progress,3320,Paid,Vishal Singh,16,Under review
+2025-02-14,Suresh,Karnal,Automation Consultation,New Project,In Progress,15230,Pending,Vishal Singh,9,60% completed
+2025-02-14,Vinod Traders,Ambala,Data Entry Automation,Renewal,In Progress,2560,Partial,Komal Yadav,10,Work ongoing
+2025-02-18,Ramesh,Kaithal,Technical Support,Upgrade,In Progress,2130,Partial,Komal Yadav,17,Under review
+2025-02-25,Shalini,Ambala,Computer Service,Maintenance,In Progress,4860,Pending,Pankaj Sharma,4,60% completed
+2025-02-27,Ashok Services,Rohtak,Automation Consultation,New Project,Completed,15160,Paid,Ritu Verma,15,Closed successfully
+2025-02-28,Rekha,Kaithal,Automation Consultation,Maintenance,Completed,15350,Paid,Amit Kumar,24,Closed successfully
+2025-03-01,Rekha,Kaithal,Computer Service,Upgrade,Completed,2180,Pending,Komal Yadav,6,Minor revisions done
+2025-03-01,Kavita Services,Chandigarh,Website Maintenance,Support Ticket,Completed,7010,Paid,Vishal Singh,17,Delivered on time
+2025-03-09,Shalini Traders,Jind,Software Support,New Project,Completed,3670,Paid,Vishal Singh,25,Closed successfully
+2025-03-11,Meena,Kaithal,Technical Support,Maintenance,Completed,3060,Paid,Tarun Goel,16,Closed successfully
+2025-03-12,Ashok Store,Kaithal,Dashboard Reporting,New Project,Pending,13520,Pending,Tarun Goel,0,Scheduled for next week
+2025-03-18,Sonia,Chandigarh,Digital Presentation,New Project,Completed,2860,Partial,Amit Kumar,9,Smooth delivery
+2025-03-22,Sandeep,Rohtak,Software Support,Upgrade,Completed,3640,Partial,Komal Yadav,8,Closed successfully
+2025-03-22,Priya Store,Kurukshetra,Automation Consultation,Support Ticket,Pending,20910,Pending,Vishal Singh,0,On hold by client request
+2025-04-07,Sonia Traders,Rohtak,Digital Presentation,Upgrade,Cancelled,4970,Pending,Tarun Goel,0,Client cancelled request
+2025-04-11,Neha,Hisar,Computer Service,Support Ticket,Completed,2040,Paid,Vishal Singh,9,Minor revisions done
+2025-04-12,Ashok Distributors,Kaithal,Technical Support,Upgrade,Cancelled,1560,Pending,Komal Yadav,8,Budget issue
+2025-04-15,Deepak Enterprises,Kaithal,Digital Presentation,Support Ticket,Completed,4050,Paid,Ritu Verma,20,Client satisfied
+2025-04-17,Sanjay Store,Kurukshetra,Digital Presentation,New Project,Pending,2640,Pending,Tarun Goel,0,Awaiting client approval
+2025-04-17,Ashok,Kaithal,Digital Presentation,New Project,Completed,5680,Paid,Vishal Singh,30,Closed successfully
+2025-04-17,Pooja Services,Kaithal,Technical Support,Renewal,Pending,3450,Pending,Vishal Singh,0,Scheduled for next week
+2025-04-17,Deepak,Karnal,Automation Consultation,Renewal,In Progress,12800,Partial,Pankaj Sharma,20,Testing phase
+2025-04-18,Harish Distributors,Karnal,Computer Service,Maintenance,Completed,2860,Partial,Amit Kumar,9,Delivered on time
+2025-04-18,Priya Industries,Jind,Software Support,New Project,In Progress,11780,Partial,Tarun Goel,18,Work ongoing
+2025-04-24,Vikram,Rohtak,Computer Service,Upgrade,Completed,1180,Paid,Komal Yadav,13,Delivered on time
+2025-04-25,Ramesh Agency,Karnal,Website Maintenance,Maintenance,In Progress,7280,Partial,Komal Yadav,3,Under review
+2025-04-25,Sunita Computers,Ambala,Website Maintenance,Maintenance,Completed,8730,Paid,Vishal Singh,5,Delivered on time
+2025-04-26,Manoj Agency,Ambala,Digital Presentation,Upgrade,In Progress,4840,Partial,Amit Kumar,8,Under review
+2025-04-26,Ashok Agency,Hisar,Data Entry Automation,Support Ticket,Cancelled,6440,Pending,Vishal Singh,10,Budget issue
+2025-04-29,Rekha Services,Kaithal,Computer Service,New Project,In Progress,4990,Pending,Amit Kumar,14,Under review
+2025-05-05,Kavita,Karnal,Software Support,Upgrade,Completed,9940,Paid,Tarun Goel,16,Delivered on time
+2025-05-12,Sunita Services,Hisar,Data Entry Automation,Upgrade,In Progress,5840,Pending,Pankaj Sharma,20,Final stage in progress
+2025-05-29,Sunita,Jind,Software Support,Upgrade,Pending,2500,Pending,Amit Kumar,0,On hold by client request
+2025-05-29,Sandeep,Kaithal,Data Entry Automation,New Project,Completed,5240,Paid,Komal Yadav,4,Client satisfied
+2025-06-03,Rohit Agency,Kurukshetra,Digital Presentation,Support Ticket,Completed,3310,Paid,Komal Yadav,23,Minor revisions done
+2025-06-07,Shalini Computers,Hisar,Software Support,Maintenance,Completed,5440,Paid,Komal Yadav,23,Smooth delivery
+2025-06-10,Geeta Industries,Kaithal,Computer Service,Support Ticket,In Progress,2280,Pending,Pankaj Sharma,19,Final stage in progress
+2025-06-15,Priya Services,Karnal,Software Support,Upgrade,Completed,3640,Pending,Komal Yadav,28,Client satisfied
+2025-06-17,Manoj Agency,Hisar,Dashboard Reporting,New Project,Pending,4690,Pending,Tarun Goel,0,Scheduled for next week
+2025-06-20,Suresh Store,Kaithal,Technical Support,Maintenance,Completed,2440,Paid,Vishal Singh,15,Closed successfully
+2025-06-22,Sandeep Distributors,Jind,Website Maintenance,Upgrade,Pending,3790,Pending,Vishal Singh,0,Awaiting client approval
+2025-06-29,Sandeep,Karnal,Technical Support,New Project,Completed,2580,Paid,Vishal Singh,29,Delivered on time
+2025-07-02,Sandeep Associates,Kaithal,Computer Service,Renewal,Completed,4020,Paid,Ritu Verma,15,Delivered on time
+2025-07-06,Sandeep,Kaithal,Website Maintenance,Support Ticket,Completed,11000,Paid,Ritu Verma,17,Delivered on time
+2025-07-10,Sonia,Jind,Website Maintenance,Support Ticket,Completed,12920,Paid,Ritu Verma,23,Delivered on time
+2025-07-12,Kavita Traders,Kurukshetra,Website Maintenance,New Project,Completed,8570,Paid,Pankaj Sharma,9,Smooth delivery
+2025-07-12,Anita Enterprises,Kaithal,Technical Support,Maintenance,In Progress,1060,Pending,Ritu Verma,15,Final stage in progress
+2025-07-15,Suresh Industries,Chandigarh,Dashboard Reporting,Maintenance,Completed,6320,Paid,Pankaj Sharma,28,Closed successfully
+2025-07-15,Deepak,Hisar,Digital Presentation,Upgrade,Completed,4940,Paid,Komal Yadav,21,Minor revisions done
+2025-07-23,Neha Enterprises,Kaithal,Computer Service,Upgrade,Completed,3910,Paid,Vishal Singh,19,Client satisfied
+2025-07-28,Sonia,Kaithal,Website Maintenance,Support Ticket,In Progress,4270,Pending,Tarun Goel,9,Work ongoing
+2025-07-28,Sonia Solutions,Jind,Software Support,Upgrade,In Progress,9240,Pending,Tarun Goel,10,60% completed
+2025-07-29,Anita Services,Hisar,Technical Support,Upgrade,In Progress,2250,Pending,Tarun Goel,2,Under review
+2025-08-02,Priya,Ambala,Data Entry Automation,New Project,Completed,1860,Paid,Amit Kumar,25,Smooth delivery
+2025-08-04,Sanjay Computers,Rohtak,Data Entry Automation,Support Ticket,Completed,4840,Paid,Amit Kumar,23,Delivered on time
+2025-08-05,Ashok,Kaithal,Software Support,Upgrade,Pending,5440,Partial,Tarun Goel,0,Scheduled for next week
+2025-08-06,Deepak,Kurukshetra,Technical Support,New Project,Pending,3400,Pending,Vishal Singh,0,Scheduled for next week
+2025-08-08,Ramesh Agency,Kaithal,Website Maintenance,Upgrade,Completed,3920,Paid,Ritu Verma,2,Smooth delivery
+2025-08-16,Sunita,Jind,Dashboard Reporting,Upgrade,Pending,8490,Pending,Vishal Singh,0,Documents pending from client
+2025-08-19,Kavita Computers,Kurukshetra,Website Maintenance,Maintenance,Pending,4980,Pending,Ritu Verma,0,Awaiting client approval
+2025-08-21,Vinod Services,Kaithal,Technical Support,Renewal,Cancelled,3950,Pending,Pankaj Sharma,8,Budget issue
+2025-08-21,Harish Store,Delhi,Software Support,Renewal,Cancelled,9140,Pending,Vishal Singh,0,Project postponed indefinitely
+2025-08-24,Geeta,Hisar,Digital Presentation,Support Ticket,Completed,5670,Paid,Amit Kumar,26,Client satisfied
+2025-08-29,Harish,Kaithal,Computer Service,New Project,Completed,1430,Paid,Tarun Goel,26,Closed successfully
+2025-08-31,Priya Services,Hisar,Technical Support,Maintenance,Completed,1630,Paid,Pankaj Sharma,23,Closed successfully
+2025-09-06,Anita Associates,Jind,Computer Service,Renewal,Completed,3060,Paid,Tarun Goel,17,Client satisfied
+2025-09-08,Neha Distributors,Rohtak,Automation Consultation,Renewal,Pending,6680,Pending,Vishal Singh,0,Scheduled for next week
+2025-09-16,Anita,Hisar,Computer Service,Renewal,In Progress,1210,Pending,Ritu Verma,3,Testing phase
+2025-09-21,Vinod Services,Kurukshetra,Data Entry Automation,New Project,Completed,5250,Paid,Komal Yadav,13,Delivered on time
+2025-09-21,Pooja,Hisar,Website Maintenance,New Project,In Progress,10970,Pending,Tarun Goel,13,Under review
+2025-09-21,Deepak Industries,Jind,Website Maintenance,Upgrade,Completed,9280,Paid,Komal Yadav,22,Client satisfied
+2025-09-22,Deepak Distributors,Kaithal,Website Maintenance,Maintenance,Completed,7910,Paid,Ritu Verma,8,Minor revisions done
+2025-09-22,Meena,Chandigarh,Dashboard Reporting,Upgrade,Completed,9230,Paid,Vishal Singh,28,Smooth delivery
+2025-09-28,Anita,Jind,Software Support,Support Ticket,Completed,2690,Pending,Pankaj Sharma,18,Closed successfully
+2025-09-30,Anita Agency,Kaithal,Digital Presentation,Upgrade,Pending,6470,Pending,Ritu Verma,0,On hold by client request
+2025-10-02,Harish Distributors,Kurukshetra,Computer Service,Renewal,Pending,1170,Partial,Ritu Verma,0,Documents pending from client
+2025-10-02,Neha Services,Delhi,Software Support,Support Ticket,Completed,4960,Paid,Pankaj Sharma,22,Client satisfied
+2025-10-04,Ramesh,Rohtak,Dashboard Reporting,New Project,Pending,5010,Pending,Komal Yadav,0,Scheduled for next week
+2025-10-12,Ajay Agency,Kaithal,Website Maintenance,Maintenance,Completed,14110,Paid,Amit Kumar,13,Client satisfied
+2025-10-12,Ashok,Rohtak,Data Entry Automation,Upgrade,Pending,2580,Pending,Pankaj Sharma,0,Scheduled for next week
+2025-10-16,Shalini Agency,Hisar,Computer Service,Renewal,Cancelled,4570,Partial,Pankaj Sharma,1,Project postponed indefinitely
+2025-10-20,Pooja Computers,Kaithal,Computer Service,Support Ticket,Pending,1570,Pending,Komal Yadav,0,Scheduled for next week
+2025-10-24,Ajay Traders,Ambala,Technical Support,Maintenance,In Progress,2420,Pending,Amit Kumar,12,60% completed
+2025-11-03,Vinod,Kurukshetra,Technical Support,Renewal,Completed,2840,Paid,Amit Kumar,13,Smooth delivery
+2025-11-12,Vikram Industries,Ambala,Software Support,New Project,Completed,7580,Partial,Amit Kumar,4,Minor revisions done
+2025-11-17,Geeta Enterprises,Kurukshetra,Data Entry Automation,Support Ticket,Completed,7660,Paid,Tarun Goel,9,Client satisfied
+2025-11-23,Ashok,Kaithal,Digital Presentation,Upgrade,In Progress,4120,Partial,Pankaj Sharma,18,Testing phase
+2025-11-24,Priya Industries,Karnal,Technical Support,Support Ticket,Completed,1360,Paid,Ritu Verma,22,Minor revisions done
+2025-11-26,Harish Store,Kurukshetra,Software Support,Maintenance,Completed,3610,Paid,Amit Kumar,19,Minor revisions done
+2025-11-28,Vinod,Delhi,Technical Support,Maintenance,In Progress,3420,Partial,Pankaj Sharma,15,Work ongoing
+2025-12-01,Anita,Jind,Website Maintenance,Maintenance,Completed,14860,Paid,Komal Yadav,15,Closed successfully
+2025-12-03,Sanjay,Kaithal,Dashboard Reporting,Maintenance,Completed,11020,Partial,Pankaj Sharma,21,Closed successfully
+2025-12-07,Ramesh Solutions,Delhi,Automation Consultation,Upgrade,Cancelled,12310,Pending,Amit Kumar,3,Budget issue
+2025-12-08,Naveen Industries,Kaithal,Dashboard Reporting,New Project,In Progress,17510,Partial,Amit Kumar,10,Testing phase
+2025-12-11,Neha Enterprises,Kaithal,Automation Consultation,Upgrade,Completed,5560,Paid,Ritu Verma,19,Minor revisions done
+2025-12-11,Geeta Services,Hisar,Website Maintenance,Upgrade,Pending,14410,Pending,Amit Kumar,0,Scheduled for next week
+2025-12-11,Rohit Traders,Ambala,Technical Support,New Project,Pending,1890,Pending,Ritu Verma,0,Scheduled for next week
+2025-12-14,Vikram Solutions,Kurukshetra,Automation Consultation,Upgrade,Pending,18990,Pending,Tarun Goel,0,Documents pending from client
+2025-12-14,Deepak Solutions,Ambala,Data Entry Automation,New Project,Pending,4560,Partial,Amit Kumar,0,On hold by client request
+2025-12-17,Pooja Distributors,Ambala,Dashboard Reporting,Upgrade,In Progress,9910,Pending,Amit Kumar,20,Work ongoing
+2025-12-22,Geeta Solutions,Kaithal,Digital Presentation,New Project,Completed,1680,Paid,Pankaj Sharma,29,Delivered on time
+2025-12-23,Rohit Enterprises,Kaithal,Software Support,Renewal,Completed,11980,Paid,Komal Yadav,3,Closed successfully
+2025-12-25,Manoj,Panipat,Software Support,New Project,Pending,11060,Pending,Ritu Verma,0,Awaiting client approval
+2025-12-27,Meena Traders,Rohtak,Automation Consultation,New Project,In Progress,18960,Partial,Pankaj Sharma,4,60% completed
